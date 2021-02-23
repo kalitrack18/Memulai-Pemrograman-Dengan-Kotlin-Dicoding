@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Control_Flow-Expression_and_Statement-Expression" external.linked.project.path="D:/1 Programming (Code&amp;amp;Design)/Java Program/Memulai Pemrograman Dengan Kotlin Dicoding/Memulai Pemrograman dengan Kotlin/Control Flow/Expression and Statement/Expression" external.root.project.path="D:/1 Programming (Code&amp;amp;Design)/Java Program/Memulai Pemrograman Dengan Kotlin Dicoding/Memulai Pemrograman dengan Kotlin" external.system.id="GRADLE" external.system.module.group="Memulai_Pemrograman_dengan_Kotlin" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Control Flow/Expression and Statement/Expression">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Control Flow/Expression and Statement/Expression/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Control Flow/Expression and Statement/Expression/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Control Flow/Expression and Statement/Expression/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
