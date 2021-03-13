@@ -1,414 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e669967a-b9ea-4153-97a3-31824ea3aff3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Memulai Pemrograman Dengan Kotlin Dicoding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/her.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean/Conjuction ataun AND sederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean/Conjuction ataun AND.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean/Disjunction atau OR.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean/Negation or NOT.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HelloKT.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Memulai Pemrograman dengan Kotlin 2019.1.4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Memulai Pemrograman dengan Kotlin 2019.1.4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_70.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_70.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_70.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_70.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Break/Control_Flow-Break_and_Continue-Break.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Break/Control_Flow-Break_and_Continue-Break_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Break/Control_Flow-Break_and_Continue-Break_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Break/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Break_and_Continue-Break_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Break/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Break_and_Continue-Break_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Continue/Control_Flow-Break_and_Continue-Continue.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Continue/Control_Flow-Break_and_Continue-Continue_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Continue/Control_Flow-Break_and_Continue-Continue_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Continue/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Break_and_Continue-Continue_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Continue/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Break_and_Continue-Continue_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Labels/Control_Flow-Break_and_Continue-Labels.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Labels/Control_Flow-Break_and_Continue-Labels_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Labels/Control_Flow-Break_and_Continue-Labels_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Labels/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Break_and_Continue-Labels_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Break and Continue/Labels/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Break_and_Continue-Labels_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/All of Enum Object/Control_Flow-Enumeration-All_of_Enum_Object.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/All of Enum Object/Control_Flow-Enumeration-All_of_Enum_Object_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/All of Enum Object/Control_Flow-Enumeration-All_of_Enum_Object_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Anonymous Class in Enumeration/Control_Flow-Enumeration-Anonymous_Class_in_Enumeration.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Anonymous Class in Enumeration/Control_Flow-Enumeration-Anonymous_Class_in_Enumeration_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Anonymous Class in Enumeration/Control_Flow-Enumeration-Anonymous_Class_in_Enumeration_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enum Object Value/Control_Flow-Enumeration-Enum_Object_Value.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enum Object Value/Control_Flow-Enumeration-Enum_Object_Value_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enum Object Value/Control_Flow-Enumeration-Enum_Object_Value_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enum Position/Control_Flow-Enumeration-Enum_Position.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enum Position/Control_Flow-Enumeration-Enum_Position_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enum Position/Control_Flow-Enumeration-Enum_Position_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enum Position/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Enumeration-Enum_Position_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enum Position/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Enumeration-Enum_Position_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enumeration with When Expression/Control_Flow-Enumeration-Enumeration_with_When_Expression.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enumeration with When Expression/Control_Flow-Enumeration-Enumeration_with_When_Expression_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enumeration with When Expression/Control_Flow-Enumeration-Enumeration_with_When_Expression_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enumeration/Control_Flow-Enumeration-Enumeration.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enumeration/Control_Flow-Enumeration-Enumeration_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enumeration/Control_Flow-Enumeration-Enumeration_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enumeration/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Enumeration-Enumeration_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/Enumeration/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Enumeration-Enumeration_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/enumValues/Control_Flow-Enumeration-enumValues.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/enumValues/Control_Flow-Enumeration-enumValues_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/enumValues/Control_Flow-Enumeration-enumValues_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/enumValues/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Enumeration-enumValues_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/enumValues/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Enumeration-enumValues_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/valueOf/Control_Flow-Enumeration-valueOf.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/valueOf/Control_Flow-Enumeration-valueOf_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/valueOf/Control_Flow-Enumeration-valueOf_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/valueOf/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Enumeration-valueOf_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Enumeration/valueOf/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Enumeration-valueOf_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Expression and Statement/Expression/Control_Flow-Expression_and_Statement-Expression.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Expression and Statement/Expression/Control_Flow-Expression_and_Statement-Expression_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Expression and Statement/Expression/Control_Flow-Expression_and_Statement-Expression_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Expression and Statement/Statement/Control_Flow-Expression_and_Statement-Statement.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Expression and Statement/Statement/Control_Flow-Expression_and_Statement-Statement_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Expression and Statement/Statement/Control_Flow-Expression_and_Statement-Statement_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Latihan/Latihan/Control_Flow-Latihan-Latihan.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Latihan/Latihan/Control_Flow-Latihan-Latihan_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Latihan/Latihan/Control_Flow-Latihan-Latihan_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Latihan/Latihan/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Latihan-Latihan_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Latihan/Latihan/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Latihan-Latihan_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/For Loop Index/Control_Flow-Range_and_For_loop-For_Loop_Index.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/For Loop Index/Control_Flow-Range_and_For_loop-For_Loop_Index_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/For Loop Index/Control_Flow-Range_and_For_loop-For_Loop_Index_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/For Loop with Range/Control_Flow-Range_and_For_loop-For_Loop_with_Range.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/For Loop with Range/Control_Flow-Range_and_For_loop-For_Loop_with_Range_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/For Loop with Range/Control_Flow-Range_and_For_loop-For_Loop_with_Range_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/For Loop/Control_Flow-Range_and_For_loop-For_Loop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/For Loop/Control_Flow-Range_and_For_loop-For_Loop_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/For Loop/Control_Flow-Range_and_For_loop-For_Loop_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/For Loop/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Range_and_For_loop-For_Loop_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/For Loop/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Range_and_For_loop-For_Loop_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/ForEach/Control_Flow-Range_and_For_loop-ForEach.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/ForEach/Control_Flow-Range_and_For_loop-ForEach_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/ForEach/Control_Flow-Range_and_For_loop-ForEach_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/ForEach/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Range_and_For_loop-ForEach_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/ForEach/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Range_and_For_loop-ForEach_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/ForEachIndexed/Control_Flow-Range_and_For_loop-ForEachIndexed.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/ForEachIndexed/Control_Flow-Range_and_For_loop-ForEachIndexed_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/ForEachIndexed/Control_Flow-Range_and_For_loop-ForEachIndexed_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/Range ForEach/Control_Flow-Range_and_For_loop-Range_ForEach.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/Range ForEach/Control_Flow-Range_and_For_loop-Range_ForEach_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/Range ForEach/Control_Flow-Range_and_For_loop-Range_ForEach_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/Range/Control_Flow-Range_and_For_loop-Range.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/Range/Control_Flow-Range_and_For_loop-Range_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/Range/Control_Flow-Range_and_For_loop-Range_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/Range/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Range_and_For_loop-Range_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/Control Flow/Range and For loop/Range/Memulai_Pemrograman_dengan_Kotlin-Control_Flow-Range_and_For_loop-Range_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/.idea/modules/util/Memulai_Pemrograman_dengan_Kotlin-util.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Break and Continue/Break/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Break and Continue/Break/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Break and Continue/Continue/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Break and Continue/Continue/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Break and Continue/Labels/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Break and Continue/Labels/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/All of Enum Object/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/All of Enum Object/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/Anonymous Class in Enumeration/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/Anonymous Class in Enumeration/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/Enum Object Value/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/Enum Object Value/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/Enum Position/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/Enum Position/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/Enumeration with When Expression/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/Enumeration with When Expression/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/Enumeration/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/Enumeration/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/enumValues/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/enumValues/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/valueOf/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Enumeration/valueOf/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Expression and Statement/Expression/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Expression and Statement/Expression/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Expression and Statement/Statement/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Expression and Statement/Statement/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Latihan/Latihan/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Latihan/Latihan/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/For Loop Index/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/For Loop Index/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/For Loop with Range/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/For Loop with Range/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/For Loop with Step Extension/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/For Loop with Step Extension/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/For Loop/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/For Loop/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/ForEach/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/ForEach/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/ForEachIndexed/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/ForEachIndexed/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/Range ForEach/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/Range ForEach/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/Range with `!in` Operator/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/Range with `!in` Operator/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/Range with `in` Operator/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/Range with `in` Operator/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/Range/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/Range and For loop/Range/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/Multiple statement in Condition block/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/Multiple statement in Condition block/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When as a Expression/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When as a Expression/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When subject/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When subject/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When with Else block/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When with Else block/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When with Range as a Condition/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When with Range as a Condition/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When with `is` operator/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When with `is` operator/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/When Expression/When/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/While and Do While/Do While/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/While and Do While/Do While/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/While and Do While/Infinite While/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/While and Do While/Infinite While/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/While and Do While/While/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Control Flow/While and Do While/While/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Channels/Contoh/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Channels/Contoh/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Coroutine Dispatcher/Dispatcher.Default/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Coroutine Dispatcher/Dispatcher.Default/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Coroutine Dispatcher/Dispatcher.IO/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Coroutine Dispatcher/Dispatcher.IO/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Coroutine Dispatcher/Dispatcher.Unconfined/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Coroutine Dispatcher/Dispatcher.Unconfined/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Coroutine Dispatcher/Single Thread Context/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Coroutine Dispatcher/Single Thread Context/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Coroutine Dispatcher/Thread Pool/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Coroutine Dispatcher/Thread Pool/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Job dan Deferred/Contoh 1/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Job dan Deferred/Contoh 1/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Job dan Deferred/Contoh 2/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Job dan Deferred/Contoh 2/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Job dan Deferred/Contoh 3/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Job dan Deferred/Contoh 3/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Job dan Deferred/Contoh 4/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Job dan Deferred/Contoh 4/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Job dan Deferred/Contoh 5/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Job dan Deferred/Contoh 5/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Memulai Coroutine/Contoh 1/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Memulai Coroutine/Contoh 1/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Memulai Coroutine/Contoh 2/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Memulai Coroutine/Contoh 2/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Memulai Coroutine/Contoh 3/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/Memulai Coroutine/Contoh 3/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/latihan/Latihan/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Coroutines/latihan/Latihan/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/count/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/count/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/filter and filterNot/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/filter and filterNot/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/find/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/find/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/first/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/first/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/map/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/map/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/sorted/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/sorted/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/sum/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections Operations/sum/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections/Collections/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections/Collections/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections/Maps/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections/Maps/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections/Sets/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Collections/Sets/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Comparing data class/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Comparing data class/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Copying data class objects/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Copying data class objects/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Create variables based on data class objects/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Create variables based on data class objects/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Data Class/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Data Class/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Destructuring Declarations/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Destructuring Declarations/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Different data class with class/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Different data class with class/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Modify the data class object/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Data Class/Modify the data class object/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Latihan/latihan/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Latihan/latihan/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Sequences/Sequences Initialization with generateSequence/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Sequences/Sequences Initialization with generateSequence/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Sequences/Sequences Initialization/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Data Class dan Collections/Sequences/Sequences Initialization/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Advanced Collection Function/Distinct/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Advanced Collection Function/Distinct/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Advanced Collection Function/Drop/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Advanced Collection Function/Drop/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Advanced Collection Function/Fold/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Advanced Collection Function/Fold/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Advanced Collection Function/Slice/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Advanced Collection Function/Slice/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Advanced Collection Function/Take/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Advanced Collection Function/Take/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Extensions/Contoh 1/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Extensions/Contoh 1/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Extensions/Contoh 2/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Extensions/Contoh 2/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Extensions/Contoh 3/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Extensions/Contoh 3/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Extensions/Contoh 4/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Extensions/Contoh 4/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Function Inside Function/Inner function/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Function Inside Function/Inner function/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Function Type/Contoh 1/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Function Type/Contoh 1/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Function Type/Contoh 2/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Function Type/Contoh 2/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Function Type/Contoh 3/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Function Type/Contoh 3/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Lambda/Contoh 1/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Lambda/Contoh 1/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Lambda/Contoh 2/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Lambda/Contoh 2/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Lambda/Contoh 3/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Lambda/Contoh 3/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Lambda/Contoh 4/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Lambda/Contoh 4/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Lambda/Contoh 5/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Lambda/Contoh 5/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Latihan/Latihan/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Latihan/Latihan/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Library Helper/also/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Library Helper/also/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Library Helper/apply/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Library Helper/apply/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Library Helper/let/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Library Helper/let/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Library Helper/run/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Library Helper/run/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Library Helper/with/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Library Helper/with/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Member References/Function References/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Member References/Function References/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Member References/Property References/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Member References/Property References/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Named and Default Argument/Contoh 1/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Named and Default Argument/Contoh 1/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Named and Default Argument/Contoh 2/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Named and Default Argument/Contoh 2/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Named and Default Argument/Contoh 3/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Named and Default Argument/Contoh 3/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Named and Default Argument/Contoh 4/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Named and Default Argument/Contoh 4/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Recursion/Recursion Initilization/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Recursion/Recursion Initilization/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Recursion/Tail Recursion/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Recursion/Tail Recursion/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Scope Function with Lambda Argument/also/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Scope Function with Lambda Argument/also/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Scope Function with Lambda Argument/let/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Scope Function with Lambda Argument/let/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Scope Function with Lambda Receiver/apply/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Scope Function with Lambda Receiver/apply/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Scope Function with Lambda Receiver/run/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Scope Function with Lambda Receiver/run/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Scope Function with Lambda Receiver/with/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Scope Function with Lambda Receiver/with/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Vararg Argument/Contoh 1/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Vararg Argument/Contoh 1/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Vararg Argument/Contoh 2/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Vararg Argument/Contoh 2/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Vararg Argument/Contoh 3/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Functional/Vararg Argument/Contoh 3/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Generics/Generics/Contoh 1/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Generics/Generics/Contoh 1/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Generics/Generics/Contoh 2/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Generics/Generics/Contoh 2/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Generics/Generics/Contoh 3/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Generics/Generics/Contoh 3/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Generics/Latihan/Latihan/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Generics/Latihan/Latihan/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Generics/Variance/Contoh/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Generics/Variance/Contoh/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Boolean/Conjuction/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Boolean/Conjuction/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Boolean/Disjunction/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Boolean/Disjunction/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Boolean/Negation/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Boolean/Negation/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Array Initialization/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Array Initialization/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Char in String/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Char in String/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Character/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Character/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Escaped String/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Escaped String/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Raw String/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Raw String/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/String/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/String/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Unicode String/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Unicode String/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Update Array/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Data Type/Update Array/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Function/Function Initilization/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Function/Function Initilization/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 1/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/If Expression/If Else If/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/If Expression/If Else If/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/If Expression/If Else/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/If Expression/If Else/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/If Expression/If as a Expression/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/If Expression/If as a Expression/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/If Expression/If/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/If Expression/If/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Latihan/Latihan/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Latihan/Latihan/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Nullable Types/Nullable Types/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Nullable Types/Nullable Types/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Numbers/Number Initilization/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Numbers/Number Initilization/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Numbers/Number operation/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Numbers/Number operation/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Numbers/Number with max and min values/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Numbers/Number with max and min values/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Numbers/String to Number/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Numbers/String to Number/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/Safe Call and Elvis Operator/Safe Call Operator/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/String Template/String Template/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Kotlin Fundamental/String Template/String Template/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Memulai Pemrograman dengan Kotlin/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/task-remote-info.yaml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2" />
@@ -416,38 +66,134 @@
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1pWCpZQXINgM1lh61zcK0WF7trL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Course" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="com.dicoding.kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memulai Pemrograman dengan Kotlin 2019.1.4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.dicoding.kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memulai Pemrograman dengan Kotlin 2019.1.4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.dicoding.kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memulai Pemrograman dengan Kotlin 2019.1.4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.dicoding.kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memulai Pemrograman dengan Kotlin 2019.1.4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="Application.Negation_or_NOTKt">
+    <configuration name="her" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="her" />
+      <module name="com.dicoding.kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Conjuction_ataun_ANDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="com.dicoding.kotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Boolean.Conjuction_ataun_ANDKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Disjunction_atau_ORKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="com.dicoding.kotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Boolean.Disjunction_atau_ORKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloKTKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="com.dicoding.kotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="HelloKTKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Negation_or_NOTKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="com.dicoding.kotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Boolean.Negation_or_NOTKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Application.Negation_or_NOTKt" />
+        <item itemvalue="Application.Disjunction_atau_ORKt" />
+        <item itemvalue="Application.HelloKTKt" />
+        <item itemvalue="Application.Conjuction_ataun_ANDKt" />
+        <item itemvalue="Application.her" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -463,8 +209,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2987897" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30332828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -481,7 +228,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Build" order="10" visible="true" weight="0.29951692" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.29951692" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -493,5 +240,95 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/HelloKT.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|com.dicoding.kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

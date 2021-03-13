@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
+<module external.linked.project.id="com.dicoding.kotlin:main" external.linked.project.path="$MODULE_DIR$/../../../../1 Programming (Code&amp;amp;Design)/Java Program/Memulai Pemrograman Dengan Kotlin Dicoding/Memulai Pemrograman dengan Kotlin 2019.1.4" external.root.project.path="$MODULE_DIR$/../../../../1 Programming (Code&amp;amp;Design)/Java Program/Memulai Pemrograman Dengan Kotlin Dicoding/Memulai Pemrograman dengan Kotlin 2019.1.4" external.system.id="GRADLE" external.system.module.group="BelajarPemrogramanKotlinDasar" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
